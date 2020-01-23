@@ -1,2 +1,3 @@
 # SatisIsletmesiOtomasyonu
-https://github.com/amdhst/SatisIsletmesiOtomasyonu/blob/master/nesne_proje.pdf
+Kırklareli üniversitesi Yazılım Müh. Bölümü 
+2.sınıf Güz Dönemi Nesneye Yönelik Programlama Proje Ödevi
